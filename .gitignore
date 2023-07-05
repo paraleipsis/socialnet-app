@@ -22,4 +22,4 @@ venv
 docs.zip
 archive.zip
 test
-migrations/versions/
+migrations/versions/*

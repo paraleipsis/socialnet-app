@@ -20,4 +20,4 @@ coverage.xml
 .git/
 .idea/
 venv/
-migrations/versions/
+migrations/versions/*
