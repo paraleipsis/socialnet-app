@@ -1,0 +1,9 @@
+aiohttp==3.8.4
+alembic==1.11.1
+asyncpg==0.27.0
+fastapi[all]==0.99.1
+fastapi-cache2[redis]==0.2.1
+fastapi-users[sqlalchemy]==12.0.0
+redis==4.6.0
+SQLAlchemy==2.0.17
+typer==0.9.0
